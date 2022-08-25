@@ -1,0 +1,104 @@
+{
+  "phone" : [
+    {
+      "id": 1,
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6483/6483636_sd.jpg;maxHeight=640;maxWidth=550",
+      "desc": "Google - Pixel 6 Pro 128GB (Unlocked) Stormy Black",
+      "model": "GA03149-US",
+      "rate": 4.2,
+      "count": 288,
+      "pickup": "Available today at Aiea",
+      "shipping": "Unavailable in your area",
+      "price": 799,
+      "saving": 100,
+      "print": 899,
+      "offer": "3 free month of YouTube Premium"
+    },
+    {
+      "id": 2,
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501378_sd.jpg;maxHeight=640;maxWidth=550",
+      "desc": "Samsung - Galaxy A13 32GB(Unlocked) - Black",
+      "model": "SM-A135UZKDXAA",
+      "rate": 4.1,
+      "count": 22,
+      "pickup": "Available today at Aiea",
+      "shipping": "Unavailable in your area",
+      "price": 164.99,
+      "saving": 25,
+      "print": 189.99,
+      "offer": "3 free month of Disney Hotstar Premium"
+    },
+    {
+      "id": 3,
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6483/6483649_sd.jpg;maxHeight=640;maxWidth=550",
+      "desc": "Google - Pixel 6 Pro 128GB (Unlocked) Sorta Sunny",
+      "model": "GA3151-US",
+      "rate": 4,
+      "count": 288,
+      "pickup": "Order now for pickup on Thu,Jun 23 at Aiea",
+      "shipping": "Available in your area",
+      "price": 799,
+      "saving": 25,
+      "print": 899,
+      "offer": "3 free month of Netflix Premium"
+    },
+    {
+      "id": 4,
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6441/6441178_rd.jpg;maxHeight=640;maxWidth=550",
+      "desc": "Motorola - Moto G Power 2021 (Unlocked) 64GB Memory - Flash Gray",
+      "model": "PALF0005US",
+      "rate": 4.3,
+      "count": 893,
+      "pickup": "Available today at Aria",
+      "shipping": "Available in your area",
+      "price": 169,
+      "saving": 80,
+      "print": 249,
+      "offer": "1 free year of Diseney Hotstar"
+    },
+    {
+      "id": 5,
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6463/6463674_sd.jpg;maxHeight=640;maxWidth=550",
+      "desc": "Nokia - G20 128GB (Unlocked) - Night",
+      "model": "TA-1343",
+      "rate": 3.6,
+      "count": 37,
+      "pickup": "Order now for pickup on Tue,Jun 21 at Aiea",
+      "shipping": "Available in your area",
+      "price": 149.99,
+      "saving": 50,
+      "print": 199.99,
+      "offer": "No offer available currently"
+    },
+    {
+      "id": 6,
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6334/6334340_sd.jpg;maxHeight=640;maxWidth=550",
+      "desc": "Apple - Pre-Owned iPhone 8 64GB (unlocked)- Silver ",
+      "model": "SILVER RB",
+      "rate": 4.1,
+      "count": 785,
+      "pickup": "Order now for pickup on Tue, Jun 21 at Aiea",
+      "shipping": "Unavailable in your area",
+      "price": 219,
+      "print": 0,
+      "offer": "6 free month of Apple Music & 2 more"
+    },
+    {
+      "id": 7,
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494420_sd.jpg;maxHeight=640;maxWidth=550",
+      "desc": "Samsung - Galaxy S22 Ultra 256GB (Unlocked)- Green",
+      "model": "",
+      "rate": 4.9,
+      "count": 103,
+      "pickup": "Order now for pickup on Thu,Jun 23 at Aiea",
+      "shipping": "Available in your area",
+      "price": 899,
+      "saving": 400,
+      "print": 1299,
+      "offer": "3 free month of YouTube Premium"
+    }
+  ]
+
+
+ 
+}
