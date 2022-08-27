@@ -7,6 +7,9 @@
     
     
 }
+image{
+    width: 250px;
+}
 .class2{
     margin-right: 20px;
     justify-content: space-between;
@@ -23,9 +26,11 @@
 
 .classMain{
     border: 1px solid red;
-    width: 1100px;
+    width: 1500px;
     margin: auto;
    margin-bottom: 10px;
+   justify-content: center;
+   align-items: center;
 }
 .home{
     height: 100vh;
@@ -36,4 +41,8 @@
 .phone{
     height: 90vh;
     overflow: scroll;
+}
+.classCart{
+    
+    overflow: hidden;
 }
